@@ -1,5 +1,9 @@
 // js thread model
 
+// setTimeout(() => {
+//   console.log("i am Zero");
+// }, 0);
+
 function run() {
   setTimeout(() => {
     console.log("i am Zero");

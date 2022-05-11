@@ -12,9 +12,9 @@ function process(a, b, c) {
 }
 
 function main() {
-  const a = 4;
-  const b = ["eeny", "miny", "mo"];
-  const c = { first: true };
+  const a = 4; // primitive
+  const b = ["eeny", "miny", "mo"]; // non-primitive
+  const c = { first: true }; // non-primitive
 
   process(a, b, c);
 

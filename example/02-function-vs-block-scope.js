@@ -6,7 +6,6 @@ function run() {
 
   if (true) {
     let fruit = 'apple'
-
     console.log(`in side... ${fruit} is ${price}`);
   }
 
